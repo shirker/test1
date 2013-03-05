@@ -10,3 +10,5 @@ Now does it work?
 Yup it seems to!
 
 Try push instead of commit...
+
+Now with password cache
